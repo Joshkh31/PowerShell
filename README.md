@@ -39,9 +39,13 @@ This document signifies the codes used in creating the repository 'Powershell' a
     <git checkout bug-fix>
 
     Pulling the change to local pc <git pull>
+    
+    Readme.md file is modified using GitHub and the changes are pulled from remote to local machine by using the code <git pull> 
 
-    The above mentioned codes will help in creating a new repository in GitHub, and adding files and exercises to it. The codes help in pushing the files and any changes made from local pc to remote location and pulling the files from remote location to local pc 
+    The above mentioned codes will help in creating a new repository in GitHub, and adding files and exercises to it. The codes help in pushing the files and any       changes made from local pc to remote location and pulling the files from remote location to local pc 
 
     Similarly the branches created in GitHub, are pulled from remote location to local pc
     
     There ia need to make the repo public, if the account holder wants anyone to access the repo from anywhere.
+    
+   
